@@ -1,0 +1,51 @@
+/* Estilos simples para trabalho de faculdade */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Centraliza o conteúdo básico */
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+#banner img {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+    border: 5px solid #fff;
+}
+
+#servicos {
+    padding: 20px;
+}
+
+.servico-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 5px 0;
+}
